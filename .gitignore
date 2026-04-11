@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Personal journal entries (never commit your actual journal)
+entries/
+*.journal.md
