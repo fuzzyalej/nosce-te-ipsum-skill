@@ -49,7 +49,9 @@ This skill requires [Claude Code](https://claude.ai/code).
 2. In Claude Code, open **Settings → Skills**
 3. Install the skill by pointing to the `SKILL.md` file
 
-On first run, Claude will create `~/.nosce-te-ipsum/` automatically.
+On first run, Claude will create `~/.nosce-te-ipsum/` automatically just kickstart it:
+
+> Start your journaling with the nosce-te-ipsum skill, please.
 
 ---
 
